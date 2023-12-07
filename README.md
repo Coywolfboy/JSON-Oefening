@@ -13,7 +13,7 @@ Thanks for using my Json Project❤️
 
 
 Made By <a href="https://github.com/Coywolfboy" target="_blank">Coywolfboy</a>
-My Social Media is <a href="https://www.youtube.com/@coywolfboy" target="_blank">YouTube</a> <a href="https://www.twitch.tv/coywolfboy" target="_blank">Twitch</a>
+My Social Media is <a href="https://www.youtube.com/@coywolfboy" target="_blank">YouTube</a>, <a href="https://www.twitch.tv/coywolfboy" target="_blank">Twitch</a>
 
 
 
