@@ -63,7 +63,7 @@ namespace PeopleDB
             foreach (var person in group.People)
             {
                 Console.WriteLine(person);
-
+                Console.ReadLine();
             }
         }
 
