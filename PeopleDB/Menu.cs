@@ -29,6 +29,7 @@
                 if (!ShowOnlyOnce)
                 {
                     Console.WriteLine("- 0: Exit");
+
                 }
 
                 while (!Console.KeyAvailable)
@@ -38,6 +39,7 @@
 
                 var key = Console.ReadKey(true);
                 if (key.KeyChar.Equals('0')) break;
+
 
                 if (options.ContainsKey(key.KeyChar))
                 {

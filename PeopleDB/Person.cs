@@ -15,6 +15,7 @@ namespace PeopleDB
         public override string ToString()
         {
             return $"{Name} is {Age} and likes {String.Join(", ", Hobbys)}";
+            Console.ReadLine(); 
         }
     }
 }

@@ -1,0 +1,40 @@
+{
+  "Name": "GGGG",
+  "People": [
+    {
+      "Name": "Khalil Abu Zarifa",
+      "Age": 19,
+      "Hobbys": [
+        "Loppen"
+      ]
+    },
+    {
+      "Name": "Wie-is-Wie",
+      "Age": 19,
+      "Hobbys": [
+        "Zwemmen"
+      ]
+    },
+    {
+      "Name": "Wie-is-Wie",
+      "Age": 19,
+      "Hobbys": [
+        "Zwemmen"
+      ]
+    },
+    {
+      "Name": "Hey",
+      "Age": 19,
+      "Hobbys": [
+        "Loppen"
+      ]
+    },
+    {
+      "Name": "Axel",
+      "Age": 18,
+      "Hobbys": [
+        "Zwemmen"
+      ]
+    }
+  ]
+}
